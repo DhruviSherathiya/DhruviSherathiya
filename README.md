@@ -35,8 +35,8 @@
 <p align="center">
 <a href="https://github.com/DhruviSherathiya">
  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruviSherathiya&show_icons=true&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruviSherathiya&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruviSherathiya&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruviSherathiya&show_icons=true&locale=en"/>
   <br> <br>
   <img src="https://github-profile-trophy.vercel.app/?username=DhruviSherathiya&theme=buefy" />
 </a>
