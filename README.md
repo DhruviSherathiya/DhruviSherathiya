@@ -65,7 +65,7 @@
         <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruviSherathiya&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
     </td>
       <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=DhruviSherathiya&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
+        <img src="https://activity-graph.herokuapp.com/graph?username=DhruviSherathiya&theme=react-dark" width="400px" height="180px">
       </td>
   </tr>
 </table>
