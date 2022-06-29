@@ -70,3 +70,5 @@
   </tr>
 </table>
 
+### GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=DhruviSherathiya&theme=onedark">
